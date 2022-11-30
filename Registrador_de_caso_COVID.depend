@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1669639461 source:c:\users\herbe\onedrive\documentos\estudo\c\registrador_de_caso_covid\reg-cv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"colors.h"
+	"crt-files.h"
+
+1669500177 c:\users\herbe\onedrive\documentos\estudo\c\registrador_de_caso_covid\structures.h
+
+1669500007 c:\users\herbe\onedrive\documentos\estudo\c\registrador_de_caso_covid\colors.h
+
+1669639897 c:\users\herbe\onedrive\documentos\estudo\c\registrador_de_caso_covid\crt-files.h
+
+1669645367 source:c:\users\herbert\desktop\pim_iv\registrador_de_caso_covid\reg-cv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	"structures.h"
+	"colors.h"
+	"crt-files.h"
+
+1669500178 c:\users\herbert\desktop\pim_iv\registrador_de_caso_covid\structures.h
+
+1669500008 c:\users\herbert\desktop\pim_iv\registrador_de_caso_covid\colors.h
+
+1669645235 c:\users\herbert\desktop\pim_iv\registrador_de_caso_covid\crt-files.h
+
